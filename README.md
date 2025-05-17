@@ -18,7 +18,6 @@ This project implements an interactive 8-bit calculator using 8086 assembly lang
   - Decimal to Hexadecimal
 - Menu-driven interface using DOS interrupts
 - Graceful error handling for invalid input
-- Modular and well-commented code
 
 **Technologies Used**
 
